@@ -13,6 +13,6 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="s3" height="30"/>
 </span>
 
-## :envelope: Contact with me [![tg](https://img.shields.io/badge/telegram-white?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Elinaa_19) 
+## :envelope: Contact with me [![tg](https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg)](https://t.me/Elinaa_19) 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elina-19&count_private=true&show_icons=true&theme=dark&card_width=430)](https://github.com/anuraghazra/github-readme-stats) [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elina-19&langs_count=8&theme=dark&layout=compact&exclude_repo=information-searching&card_width=330)](https://github.com/anuraghazra/github-readme-stats)
