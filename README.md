@@ -1,5 +1,5 @@
 ## :mortar_board: Education
-:computer: 4rd year student of **[ITIS Kazan Federal University](https://kpfu.ru/itis/)**
+:computer: 4th year student of **[ITIS Kazan Federal University](https://kpfu.ru/itis/)**
 
 ## :runner: Languages and Tools
 <span>
