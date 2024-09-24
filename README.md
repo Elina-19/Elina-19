@@ -1,5 +1,6 @@
 ## :mortar_board: Education
-:computer: 4th year student of **[ITIS Kazan Federal University](https://kpfu.ru/itis/)**
+#### Software Engineering
+:computer: Bachelor's degree in Software Engineering from **[ITIS Kazan Federal University](https://kpfu.ru/itis/)**
 
 ## :runner: Languages and Tools
 <span>
