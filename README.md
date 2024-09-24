@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="quarkus" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="30"/>
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/c/clickhouse.svg" alt="clickhouse" height="30"/>
+    <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/clickhouse.svg" alt="clickhouse" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="s3" height="30"/>
 </span>
